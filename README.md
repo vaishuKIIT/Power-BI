@@ -17,3 +17,4 @@ and the dashboard here: https://lnkd.in/djwQETZU
 
 3. Chargeback Analysis for a Hotel Chain
 
+<img width="1024" alt="Chargeback" src="https://github.com/vaishuKIIT/Power-BI/assets/26176812/1f25f393-c4de-4f6e-9302-655ddd1b2555">
