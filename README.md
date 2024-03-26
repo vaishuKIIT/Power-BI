@@ -13,4 +13,5 @@ and the dataset here: https://lnkd.in/e6aziKE3
 Check out the dataset here: https://bit.ly/3TmtJnf 
 and the dashboard here: https://lnkd.in/djwQETZU
 
+![Dashboard_HR](https://github.com/vaishuKIIT/Power-BI/assets/26176812/03198daf-1629-4b06-a907-7ce4cd0fdff3)
 
