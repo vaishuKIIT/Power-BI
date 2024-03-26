@@ -15,3 +15,5 @@ and the dashboard here: https://lnkd.in/djwQETZU
 
 ![Dashboard_HR](https://github.com/vaishuKIIT/Power-BI/assets/26176812/03198daf-1629-4b06-a907-7ce4cd0fdff3)
 
+3. Chargeback Analysis for a Hotel Chain
+
