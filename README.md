@@ -4,4 +4,4 @@ It compares current and previous year sales and provides insights into YoY sales
 
 You can view the dashboard at https://lnkd.in/eXNeVgh6
 
-[image](https://github.com/vaishuKIIT/Power-BI/assets/26176812/d8d9882d-3775-490f-bfd8-69f6cf49a857)
+![Dashboard_ComparativeAnalysis](https://github.com/vaishuKIIT/Power-BI/assets/26176812/5ec10ade-5d06-41ed-84bc-f5e87ad7bb54)
